@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemeShare</string>
+    <string name="NEXT">NEXT</string>
+    <string name="share">SHARE</string>
+    <string name="memepura">Memepura</string>
+    <string name="todo">TODO</string>
+</resources>
